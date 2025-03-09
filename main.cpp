@@ -8,9 +8,11 @@ int main()
 {
 
     cout << "hello mr shady \n";
-    vector<int> prices={7,1,5,3,6,4};
-    int max=maxProfit(prices);
-    cout<<max<<"\n";
+    int x;
+    cout << "hello mr shady \n";
+    cin>>x;
+    cout << x<< "\n";
+
     return 0;
 }
 
