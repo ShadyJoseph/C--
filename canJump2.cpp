@@ -17,4 +17,5 @@ for(int i=0;i<n-1;i++){
     }
     if (currentEnd >= n - 1) break;
 }
+return jumps;
 }
